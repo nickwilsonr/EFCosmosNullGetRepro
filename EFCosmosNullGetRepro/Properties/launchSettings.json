@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EFCosmosNullGetRepro": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "cosmosauthkey": "[Your Cosmos Auth Key]",
+        "dbname": "ComplexModelDb",
+        "cosmosuri": "[Your Cosmos Uri]"
+      }
+    }
+  }
+}
